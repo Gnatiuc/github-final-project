@@ -5,4 +5,4 @@ Input:
   t, time period in years
   r, annual rate of interest
  Output
-  simple sinterest = p*t*r
+  simple sinterest = p * t * r
